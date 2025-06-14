@@ -3,7 +3,7 @@
 This project contains high-precision Newton method implementations using MPFR (Multiple Precision Floating-Point Reliable) library.
 
 ## Project Location
-This project is located at: `~/Desktop/mpfr-newton-solver/`
+This project is located at: `~/mpfr-newton-solver/`
 
 ## Files Overview
 
@@ -26,11 +26,6 @@ brew install gmp mpfr
 ### Ubuntu/Debian
 ```bash
 sudo apt-get install libgmp-dev libmpfr-dev
-```
-
-### CentOS/RHEL
-```bash
-sudo yum install gmp-devel mpfr-devel
 ```
 
 ## Quick Start
